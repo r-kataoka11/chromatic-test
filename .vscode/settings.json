@@ -1,8 +1,5 @@
 {
-  "cSpell.words": [
-    "autodocs",
-    "nextjs"
-  ],
+  "cSpell.words": ["autodocs", "chromaui", "nextjs"],
   "files.exclude": {
     "**/node_modules": true
   },
@@ -14,5 +11,5 @@
     "source.organizeImports",
     "source.fixAll.eslint"
   ],
-  "eslint.workingDirectories": [{ "mode": "auto" }],
+  "eslint.workingDirectories": [{ "mode": "auto" }]
 }
