@@ -2,5 +2,17 @@
   "cSpell.words": [
     "autodocs",
     "nextjs"
-  ]
+  ],
+  "files.exclude": {
+    "**/node_modules": true
+  },
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": true,
+  "editor.formatOnType": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.codeActionsOnSave": [
+    "source.organizeImports",
+    "source.fixAll.eslint"
+  ],
+  "eslint.workingDirectories": [{ "mode": "auto" }],
 }
