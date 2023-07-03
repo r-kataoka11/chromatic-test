@@ -17,4 +17,10 @@ export const Primary: Story = {
   args: {
     children: 'ラベル',
   },
+  parameters: {
+    design: {
+      type: 'figma',
+      url: 'https://www.figma.com/file/i371U9UcMoOVAWAopGOXL4/chromatic-sample?type=design&node-id=1-4&mode=design&t=4sBydB0XtGqzrw2W-4',
+    },
+  },
 }
